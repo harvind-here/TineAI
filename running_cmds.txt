@@ -1,0 +1,5 @@
+conda activate playwright_mcp
+
+npx @playwright/mcp@latest
+
+python browser_agent.py
